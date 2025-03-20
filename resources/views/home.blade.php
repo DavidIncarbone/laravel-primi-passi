@@ -9,6 +9,8 @@
 <body>
 
     <h1>Hello World</h1>
+    <p>{{ $message }}</p>
+    
     
 </body>
 </html>
